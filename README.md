@@ -1,9 +1,9 @@
 ShopEZ: One-Stop Shop for Online Purchases
 👩‍💻 Project by:
 
-Y. Sai Deekshita  – Frontend Design, Cart Functionality, Integration
+B. Rupa Sree –Frontend Design, Cart Functionality, Integration
 
-B. Rupa Sree – Backend Development, API Design
+Y. Sai Deekshita  – Backend Development, API Design
 
 B. Dipthi Reddy – Database Design, Admin Module, Testing
 
@@ -119,4 +119,4 @@ All API endpoints are tested with Postman.
 
 Ensure CORS is enabled if hosting frontend separately.
 
-✨ Built with ❤️ by Y. Sai Deekshita, B. Rupa Sree, B. Dipthi Reddy, A. Preethi & K. Brundha ✨
+✨ Built with ❤️ by B. Rupa Sree, Y. Sai Deekshita , B. Dipthi Reddy, A. Preethi & K. Brundha ✨
